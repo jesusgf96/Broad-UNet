@@ -49,18 +49,18 @@ To evaluate the models and visualize some predictions, please run:
 
 .. code:: bash
 
-    python training_clouds_data.py 
+    python evaluation_and_predictions_clouds.py 
     
 or 
 
 .. code:: bash
 
-    python training_precipitation_data.py 
+    python evaluation_and_predictions_precipitation.py 
 
 Scripts
 -----
 
-- The scripts contain the models, the generator, the training files and evaluation files.
+- The scripts contain the models, the generators, the training files and evaluation files.
 
 
 Broad-UNet architecture
