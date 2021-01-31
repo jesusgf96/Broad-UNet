@@ -1,0 +1,3 @@
+
+Create this empty directory. 
+Here the models will be saved during the training with the clouds dataset.

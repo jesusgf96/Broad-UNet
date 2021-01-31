@@ -1,0 +1,3 @@
+
+Decompress here the clouds dataset.
+As a result you should have the directories "Data_50" and "Data_20".
