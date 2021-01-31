@@ -10,13 +10,13 @@ Some results for the different nowcasting tasks
 +------------------------------------------+------------------------------------------------------------------------------------+
 |       Task                               | Actual  Vs    Prediction                                                           |
 +==========================================+====================================================================================+
-| Precipitation prediction (30 mins ahead) |.. figure:: figures/precipitation_pred1.png                                         | 
+| Precipitation prediction (30 mins ahead) |.. figure:: figures/ExampleRainPrediction20dataset-1.png                            | 
 +------------------------------------------+------------------------------------------------------------------------------------+
-| Precipitation prediction (30 mins ahead) |.. figure:: figures/precipitation_pred2.png                                         |
+| Precipitation prediction (30 mins ahead) |.. figure:: figures/ExampleRainPrediction50dataset-1.png                            |
 +------------------------------------------+------------------------------------------------------------------------------------+
-| Cloud cover prediction (30 mins ahead)   |.. figure:: figures/cloud_pred1.png                                                 |
+| Cloud cover prediction (30 mins ahead)   |.. figure:: figures/ExampleCloud30minsAhead-1.png                                   |
 +------------------------------------------+------------------------------------------------------------------------------------+
-| Cloud cover prediction (90 mins ahead)   |.. figure:: figures/cloud_pred1.png                                                 | 
+| Cloud cover prediction (90 mins ahead)   |.. figure:: figures/ExampleCloud90minsAhead-1.png                                   | 
 +------------------------------------------+------------------------------------------------------------------------------------+
 
 
