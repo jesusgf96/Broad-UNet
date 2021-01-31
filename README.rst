@@ -11,7 +11,6 @@ Some results for the different nowcasting tasks
 |       Task                               | Actual  Vs    Prediction                                                           |
 +==========================================+====================================================================================+
 | Precipitation prediction (30 mins ahead) |.. figure:: figures/ExampleRainPrediction20dataset-1.png                            | 
-                                                        :width: 100px 
 +------------------------------------------+------------------------------------------------------------------------------------+
 | Precipitation prediction (30 mins ahead) |.. figure:: figures/ExampleRainPrediction50dataset-1.png                            |
 +------------------------------------------+------------------------------------------------------------------------------------+
