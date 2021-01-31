@@ -66,11 +66,11 @@ Scripts
 Broad-UNet architecture
 -----
 
-.. figure:: figures/Broad-UNet.png
+.. figure:: figures/Broad-UNet.PNG
 
-.. figure:: figures/ConvBlock.png
+.. figure:: figures/ConvBlock.PNG
 
-.. figure:: figures/ASPP.png
+.. figure:: figures/ASPP.PNG
 
   
 Data and pretrained models
