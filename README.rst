@@ -57,44 +57,38 @@ or
 
     python training_precipitation_data.py 
 
-
-
-📜 Scripts
+Scripts
 -----
 
 - The scripts contain the models, the generator, the training files and evaluation files.
 
-🔍 Models
+
+Broad-UNet architecture
 -----
 
-We show here the schema related to the AsymmInceptionRes-3DDR-UNet model.
+.. figure:: figures/Broad-UNet.png
 
-.. figure:: figures/AsymmInceptionRes-3DDR-UNet.png
+.. figure:: figures/ConvBlock.png
+
+.. figure:: figures/ASPP.png
+
   
-📂 Data
+Data and pretrained models
 -----
 
 In order to download the data or any of the trained models, please email to the following addresses:
 
 j.garciafernandez@student.maastrichtuniversity.nl
 
-i.alaouiabdellaoui@student.maastrichtuniversity.nl
-
 siamak.mehrkanoon@maastrichtuniversity.nl
 
-The data must be downloaded and unzipped inside the 'Data/' directory.
+The data must be downloaded and unzipped inside the 'dataset_clouds/' or 'dataset_precipitation' directories as indicated in the txt files inside them.
 
 
-🔗 Citation
+Citation
 -----
 
 If you use our data and code, please cite the paper using the following bibtex reference:
 
 .. code:: bibtex
 
-    @article{fernandez2020deep,
-      title={Deep coastal sea elements forecasting using U-Net based models},
-      author={Fern{\'a}ndez, Jes{\'u}s Garc{\'\i}a and Abdellaoui, Ismail Alaoui and Mehrkanoon, Siamak},
-      journal={arXiv preprint arXiv:2011.03303},
-      year={2020}
-    }
