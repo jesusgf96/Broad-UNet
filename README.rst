@@ -1,7 +1,7 @@
 Broad-UNet: Multi-scale feature learning for nowcasting tasks
 ========
 
-The official code of the following paper : <Link to arXiv>
+The official code of the following paper: https://arxiv.org/abs/2102.06442 
 
 Results
 -----
@@ -91,4 +91,13 @@ Citation
 If you use our data and code, please cite the paper using the following bibtex reference:
 
 .. code:: bibtex
+
+    @misc{fernandez2021broadunet,
+          title={Broad-UNet: Multi-scale feature learning for nowcasting tasks}, 
+          author={Jesus Garcia Fernandez and Siamak Mehrkanoon},
+          year={2021},
+          eprint={2102.06442},
+          archivePrefix={arXiv},
+          primaryClass={cs.LG}
+    }
 
