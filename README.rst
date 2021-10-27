@@ -92,12 +92,15 @@ If you use our data and code, please cite the paper using the following bibtex r
 
 .. code:: bibtex
 
-    @misc{fernandez2021broadunet,
-          title={Broad-UNet: Multi-scale feature learning for nowcasting tasks}, 
-          author={Jesus Garcia Fernandez and Siamak Mehrkanoon},
+    @article{ Broad-UNet,
+          title={Broad-UNet: Multi-scale feature learning for nowcasting tasks},
+          author={Fernandez, Jesus Garcia and Mehrkanoon, Siamak},
+          journal={Neural Networks},
+          volume={144},
+          pages={419--427},
           year={2021},
-          eprint={2102.06442},
-          archivePrefix={arXiv},
-          primaryClass={cs.LG}
+          publisher={Elsevier}
     }
+
+ 
 
