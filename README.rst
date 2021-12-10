@@ -1,7 +1,7 @@
 Broad-UNet: Multi-scale feature learning for nowcasting tasks
 ========
 
-The official code of the following paper: https://arxiv.org/abs/2102.06442 
+The official code of the following paper: https://www.sciencedirect.com/science/article/pii/S089360802100349X 
 
 Results
 -----
