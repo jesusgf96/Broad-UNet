@@ -76,9 +76,7 @@ Broad-UNet architecture
 Data and pretrained models
 -----
 
-In order to download the data or any of the trained models, please email to the following addresses:
-
-j.garciafernandez@student.maastrichtuniversity.nl
+In order to download the data or any of the trained models, please email to the following address:
 
 siamak.mehrkanoon@maastrichtuniversity.nl
 
